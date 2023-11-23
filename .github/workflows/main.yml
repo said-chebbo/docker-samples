@@ -38,4 +38,4 @@ jobs:
       with:
         context: simple-spring-boot-rest-api
         push: true
-        tags: <said36>/my-spring-boot-app:${{ env.DATE }}
+        tags: said36/my-spring-boot-app:${{ env.DATE }}
